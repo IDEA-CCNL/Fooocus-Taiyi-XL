@@ -1,0 +1,12 @@
+{
+    "path_checkpoints": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/checkpoints",
+    "path_loras": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/loras",
+    "path_embeddings": "/cognitive_comp/wuxiaojun/pretrained/pytorch/taiyi-diffusion-xl-base-1.0-text_encoder_pretrained/tokenizer",
+    "path_vae_approx": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/vae_approx",
+    "path_upscale_models": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/upscale_models",
+    "path_inpaint": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/inpaint",
+    "path_controlnet": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/controlnet",
+    "path_clip_vision": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/clip_vision",
+    "path_fooocus_expansion": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/models/prompt_expansion/fooocus_expansion",
+    "path_outputs": "/cognitive_comp/wuxiaojun/github/text2img/Fooocus/outputs"
+}
