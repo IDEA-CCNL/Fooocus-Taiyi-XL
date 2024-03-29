@@ -1,3 +1,5 @@
+# Fooocus for Taiyi-Diffusion-XL
+
 - Tech Report 技术报告: https://arxiv.org/abs/2401.14688
 - Demo 体验地址: https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B
 - Train Code 训练代码：https://github.com/IDEA-CCNL/Taiyi-Diffusion-XL
