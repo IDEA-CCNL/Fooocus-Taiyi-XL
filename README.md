@@ -10,9 +10,10 @@
 pip install -r requirements_versions.txt
 ```
 
-2. 从HuggingFace下载Taiyi-Diffusion-XL模型: https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B，然后把taiyi_diffusion_xl.safetensors文件放到"./models/checkpoints/"文件夹下面
+2. 从HuggingFace下载Taiyi-Diffusion-XL模型: https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B
+然后把taiyi_diffusion_xl.safetensors文件放到"./models/checkpoints/"文件夹下面
 
-3. 启动：
+4. 启动：
 ```
 sh run.sh
 ```
